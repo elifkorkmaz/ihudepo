@@ -1,1 +1,1 @@
-json veri okuma 
+ihudepo
