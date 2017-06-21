@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonVeri", "jsonVeri\jsonVeri.csproj", "{BEFF5291-644C-4E06-AB19-23A90E72CCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonVeri.Tests", "jsonVeri.Tests\jsonVeri.Tests.csproj", "{0A032C8B-21C0-462E-98B4-A8015EB3DF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFF5291-644C-4E06-AB19-23A90E72CCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFF5291-644C-4E06-AB19-23A90E72CCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFF5291-644C-4E06-AB19-23A90E72CCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFF5291-644C-4E06-AB19-23A90E72CCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A032C8B-21C0-462E-98B4-A8015EB3DF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A032C8B-21C0-462E-98B4-A8015EB3DF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A032C8B-21C0-462E-98B4-A8015EB3DF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A032C8B-21C0-462E-98B4-A8015EB3DF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
